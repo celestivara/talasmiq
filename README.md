@@ -22,7 +22,7 @@ This is a Telegram bot that notifies you about the changes in the subscriber cou
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/selestivara/talasmiq.git
+    git clone https://github.com/celestivara/talasmiq.git
     ```
 
 2. **Install required packages**
