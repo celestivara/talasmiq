@@ -53,6 +53,6 @@ This is a Telegram bot that notifies you about the changes in the subscriber cou
     /set_interval 600
     ```
 
-    ## License
 
+## License
 This project is licensed under the **MIT License**
