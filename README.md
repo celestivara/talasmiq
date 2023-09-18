@@ -34,7 +34,7 @@ This is a Telegram bot that notifies you about the changes in the subscriber cou
 3. **Run the bot**
 
     ```bash
-    python main.py
+    python bot.py
     ```
 
 ## Usage
